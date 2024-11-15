@@ -38,7 +38,7 @@ These assignment learning outcomes contribute to the following course learning o
    - Submit your completed `index.html` file via the course’s submission platform.
 
 ## Example Layout
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
