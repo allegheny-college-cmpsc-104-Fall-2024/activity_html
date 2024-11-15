@@ -13,13 +13,11 @@ These assignment learning outcomes contribute to the following course learning o
 ## Instructions
 
 1. **Review the PDF File**:
-   - Open the provided `DocEngineer.pdf` file.
+   - Open the provided `src/DocEngineer.pdf` file.
    - Take note of its structure, formatting, and content.
-
-2. **Create the HTML File**:
-   - Create a new file named `index.html`.
+2. **Modify the HTML File**:
+   - Modify the file named `index.html`.
    - Write HTML code to replicate the content and formatting of the PDF as closely as possible.
-
 3. **Incorporate Required HTML Tags**:
    - Use appropriate HTML tags to structure the document, including:
      - **Header tags** (`<h1>`, `<h2>`, etc.)
@@ -27,15 +25,11 @@ These assignment learning outcomes contribute to the following course learning o
      - **Lists** (`<ol>`, `<ul>`, `<li>`)
      - **Links** (`<a href="">`)
      - **Images** (`<img>`)
-     - **Tables** (`<table>`)
-   - Maintain the visual hierarchy and formatting found in the PDF.
-
 4. **Save and Test**:
    - Save your `index.html` file.
    - Open it in a web browser to ensure it matches the PDF in content and format.
-
 5. **Submission**:
-   - Submit your completed `index.html` file via the course’s submission platform.
+   - Push your completed `index.html` file to your repo.
 
 ## Example Layout
 ```html
@@ -74,7 +68,7 @@ These assignment learning outcomes contribute to the following course learning o
 ```
 
 ## Tips
-- Use your browser to preview changes as you code.
-- Pay attention to fonts, spacing, and alignment to closely match the PDF.
+- Use your browser to preview changes as you code for instant feedback.
+- Pay close attention to fonts, spacing, alignment, and other stylistic elements to closely replicate the PDF.
 
 Good luck, and have fun mastering HTML!
