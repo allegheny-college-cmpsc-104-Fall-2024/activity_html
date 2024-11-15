@@ -1,0 +1,14 @@
+setup: |
+  echo "🐊 All project dependencies have been installed!"
+---
+
+# perform checks on py_lint.yml
+- index.html:
+    - description: "Ensure that a index.html file exists"
+      check: "ConfirmFileExists"
+    - description: "No TODOs remain in the index.html file"
+      check: "MatchFileFragment"
+      options:
+        fragment: "TODO"
+        count: 0
+        exact: true
