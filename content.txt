@@ -1,0 +1,11 @@
+CMPSC104 - Document Engineering
+
+Course Description: An introduction to creation of effective documents and documentation using industry-standard approaches to creating and treating "documentation as code". Participating in project-based and hands-on activities, students create purpose-driven digital writing with special attention to forms, formats, and conventions expected of contemporary technical communication. Students also gain experience with creating collaborative and ethically-consistent content working in a team-based setting. During a weekly laboratory session students employ contemporary software tools to complete technical documentation projects, reporting on their results through both written reflections and oral presentations. 
+
+Course Features: Project-based learning, Hands-on activities, Focus on industry-standard tools, Collaborative and ethical content creation, Weekly lab sessions.
+
+Student Requirements: Students are invited to use their own departmentally approved laptop in this course. A limited number of laptops are available for use during class and lab sessions.
+
+Example Software Tools: GitHub, VS Code
+
+Allegheny College website: https://allegheny.edu
