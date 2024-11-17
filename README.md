@@ -31,44 +31,7 @@ These assignment learning outcomes contribute to the following course learning o
 5. **Submission**:
    - Push your completed `index.html` file to your repo.
 
-## Example Layout
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document Engineering</title>
-</head>
-<body>
-    <header>
-        <h1>Title from PDF</h1>
-    </header>
-    <section>
-        <h2>Subtitle</h2>
-        <p>Content from the PDF...</p>
-    </section>
-    <section>
-        <h2>Subtitle</h2>
-        <ul>
-            <li></li>
-        </ul>
-    </section>
-    <section>
-        <h2>Subtitle</h2>
-        <ol>
-            <li></li>
-        </ol>
-    </section>
-    <footer>
-        <p>Footer content</p>
-        <img />
-    </footer>
-</body>
-</html>
-```
-
 ## Tips
 - Use your browser to preview changes as you code for instant feedback.
-- Pay close attention to fonts, spacing, alignment, and other stylistic elements to closely replicate the PDF.
 
 Good luck, and have fun mastering HTML!
